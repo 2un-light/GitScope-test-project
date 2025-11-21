@@ -1,7 +1,7 @@
 /**
  * 원의 반지름을 기반으로 면적과 둘레를 계산하는 Circle 클래스
  */
-class Circle2 {
+class Circle {
     // 생성자: 인스턴스가 만들어질 때 반지름(radius)을 설정
     constructor(radius) {
         if (radius < 0) {
