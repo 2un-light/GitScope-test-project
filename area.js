@@ -1,7 +1,7 @@
 // area.js
 // 다양한 도형의 넓이를 계산하는 유틸리티 모듈
 
-export const Area333333333 = {
+export const AreaRelease = {
   // 원
   circle(radius) {
     if (radius < 0) throw new Error("반지름은 0 이상이어야 합니다.");
