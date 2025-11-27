@@ -1,6 +1,6 @@
 // area.js
 // 다양한 도형의 넓이를 계산하는 유틸리티 모듈
-//GitLab Flow 테스트!!!
+//Git Flow 테스트!!!2222
 
 
 export const Area = {
