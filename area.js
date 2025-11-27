@@ -1,6 +1,6 @@
 // area.js
 // 다양한 도형의 넓이를 계산하는 유틸리티 모듈
-//Single Brach 테스트!!!
+//GitHub Flow 테스트!!!
 
 
 export const Area = {
